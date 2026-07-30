@@ -1,2 +1,3 @@
 this is a test file for git training
 it was created at 5:39pm
+*testing a change being made
